@@ -63,7 +63,7 @@
     -->
     <repository>
       <id>central</id>
-      <url>http://repo1.maven.org/maven2</url>
+      <url>https://repo1.maven.org/maven2</url>
       <releases>
         <enabled>true</enabled>
         <!-- only look for jars here when they are not present locally -->
@@ -82,7 +82,7 @@
     -->
     <repository>
       <id>java.net2</id>
-      <url>http://download.java.net/maven/2</url>
+      <url>https://download.java.net/maven/2</url>
       <releases>
         <enabled>true</enabled>
         <!-- only look for jars here when they are not present locally -->
@@ -96,7 +96,7 @@
     <!-- Now for the java.net repository (legacy layout) -->
     <repository>
       <id>java.net</id>
-      <url>http://download.java.net/maven/1</url>
+      <url>https://download.java.net/maven/1</url>
       <layout>legacy</layout>
       <releases>
         <enabled>true</enabled>
@@ -130,7 +130,7 @@
     -->
     <pluginRepository>
       <id>central</id>
-      <url>http://repo1.maven.org/maven2</url>
+      <url>https://repo1.maven.org/maven2</url>
       <releases>
         <enabled>true</enabled>
         <!-- only look for jars here when they are not present locally -->
@@ -143,7 +143,7 @@
 
     <pluginRepository>
       <id>java.net2</id>
-      <url>http://download.java.net/maven/2</url>
+      <url>https://download.java.net/maven/2</url>
       <releases>
         <enabled>true</enabled>
         <!-- only look for jars here when they are not present locally -->
